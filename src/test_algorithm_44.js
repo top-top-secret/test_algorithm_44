@@ -5,5 +5,5 @@ Algorithmia = require("algorithmia");
  * For more details, see algorithmia.com/developers/algorithm-development/languages
  */
 exports.apply = function(input, cb) {
-    cb(null, "Hello " + input);
+    cb(null, "Testing! Hello " + input);
 };
